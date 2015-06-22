@@ -3,7 +3,11 @@
 
 # Another implementation of DRAW with deepy framework
 
-### Core parts in the implementation are copied from https://github.com/jbornschein/draw
+### Note
+
+Core components in the implementation are copied from https://github.com/jbornschein/draw
+
+### Tricky parts in the model
 
 - Differential filter functions that can zoom in and zoom out an image to get a glimpse
 - Q Sampler
