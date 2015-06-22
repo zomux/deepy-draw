@@ -1,4 +1,4 @@
-[![Requirements Status](https://requires.io/github/uaca/deepy-draw/requirements.svg?branch=master)](https://requires.io/github/uaca/deepy/requirements/?branch=master)
+[![Requirements Status](https://requires.io/github/uaca/deepy-draw/requirements.svg?branch=master)](https://requires.io/github/uaca/deepy-draw/requirements/?branch=master)
 [![GPL3](https://img.shields.io/badge/license-GPL3-blue.svg)](https://github.com/uaca/deepy-draw/blob/master/LICENSE)
 
 # Experiment on DRAW
