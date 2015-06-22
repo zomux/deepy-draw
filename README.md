@@ -3,6 +3,8 @@
 
 # Another implementation of DRAW with deepy framework
 
+Paper: http://arxiv.org/pdf/1502.04623
+
 ### Note
 
 Core components in the implementation are copied from https://github.com/jbornschein/draw
@@ -30,7 +32,7 @@ Core components in the implementation are copied from https://github.com/jbornsc
 ### Experiment on MNIST
 
 ```bash
-python experiments/draw/mnist_training.py
+python mnist_training.py
 ```
 
 ### MNIST Animation (work in progress)
