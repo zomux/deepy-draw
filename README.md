@@ -1,9 +1,9 @@
 [![Requirements Status](https://requires.io/github/uaca/deepy-draw/requirements.svg?branch=master)](https://requires.io/github/uaca/deepy-draw/requirements/?branch=master)
 [![GPL3](https://img.shields.io/badge/license-GPL3-blue.svg)](https://github.com/uaca/deepy-draw/blob/master/LICENSE)
 
-# Experiment on DRAW
+# Another implementation of DRAW with deepy framework
 
-### Core (or tricky) parts in the model
+### Core parts in the implementation are copied from https://github.com/jbornschein/draw
 
 - Differential filter functions that can zoom in and zoom out an image to get a glimpse
 - Q Sampler
