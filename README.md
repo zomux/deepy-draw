@@ -1,3 +1,6 @@
+[![Requirements Status](https://requires.io/github/uaca/deepy/requirements.svg?branch=master)](https://requires.io/github/uaca/deepy/requirements/?branch=master)
+[![GPL3](https://img.shields.io/badge/license-GPL3-blue.svg)](https://github.com/uaca/deepy-draw/blob/master/LICENSE)
+
 # Experiment on DRAW
 
 ### Core (or tricky) parts in the model
@@ -28,4 +31,4 @@ python experiments/draw/mnist_training.py
 
 ### MNIST Animation (work in progress)
 
-![](https://github.com/uaca/deepy/raw/master/experiments/draw/plots/mnist-animation.gif)
+![](https://github.com/uaca/deepy-draw/raw/master/plots/mnist-animation.gif)
