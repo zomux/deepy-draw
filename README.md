@@ -7,7 +7,7 @@ Paper: http://arxiv.org/pdf/1502.04623
 
 ### Note
 
-Core components in the implementation are copied from https://github.com/jbornschein/draw
+Core components in the implementation are copied from https://github.com/jbornschein/draw, thanks for the great work of https://github.com/jbornschein.
 
 ### Tricky parts in the model
 
