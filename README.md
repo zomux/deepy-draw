@@ -37,4 +37,4 @@ python mnist_training.py
 
 ### MNIST Animation (work in progress)
 
-![](https://github.com/uaca/deepy-draw/raw/master/plots/mnist-animation.gif)
+![](https://github.com/zomux/deepy-draw/raw/master/plots/mnist-animation.gif)
